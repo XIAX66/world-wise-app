@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "id": "fd21",
+      "cityName": "Hong Kong",
+      "country": "Hong Kong",
+      "date": "2024-10-23T12:45:15.478Z",
+      "notes": "awesome!",
+      "emoji": "🇭🇰",
+      "position": {
+        "lat": "22.3193039",
+        "lng": "114.1693611"
+      }
+    },
+    {
+      "id": "7c69",
+      "cityName": "Xiamen",
+      "country": "China",
+      "date": "2024-10-24T11:11:11.746Z",
+      "notes": "",
+      "emoji": "🇨🇳",
+      "position": {
+        "lat": "24.6082125",
+        "lng": "118.2954243"
+      }
+    }
+  ]
+}
